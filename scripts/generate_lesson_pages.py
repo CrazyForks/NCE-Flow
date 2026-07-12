@@ -254,7 +254,7 @@ def render_book_index(book, book_n, lessons):
         if lesson.get('cn_title'):
             cn_html = f'<span class="toc-cn" lang="zh-CN">{esc(lesson["cn_title"])}</span>'
         rows.append(
-            f'      <li><a href="{esc(lesson["slug"])}.html">'
+            f'      <li><a href="/{book}/{esc(lesson["slug"])}.html">'
             f'<span class="no">{esc(lesson_no(lesson["filename"]))}</span>'
             f'<span class="title-en">{esc(lesson["title"])}</span>{cn_html}</a></li>'
         )
