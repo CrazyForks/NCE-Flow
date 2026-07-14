@@ -7,7 +7,7 @@
 [![GitHub release](https://img.shields.io/github/release/luzhenhua/NCE-Flow)](https://github.com/luzhenhua/NCE-Flow/releases)
 [![License](https://img.shields.io/github/license/luzhenhua/NCE-Flow)](LICENSE)
 
-**在线体验**: https://nce.luzhenhua.cn | **下载完整版**: [Releases](https://github.com/luzhenhua/NCE-Flow/releases)
+**在线体验**: https://nceflow.zhenhua.lu | **下载完整版**: [Releases](https://github.com/luzhenhua/NCE-Flow/releases)
 
 ## 核心功能
 
@@ -166,4 +166,4 @@ NCE-Flow/
 
 你也可以通过 [爱发电](https://afdian.com/a/luzhenhua) ☕ 请我喝杯咖啡
 
-Made with ❤️ by [Luzhenhua](https://luzhenhua.cn)
+Made with ❤️ by [Zhenhua Lu & 卢振华](https://zhenhua.lu)
